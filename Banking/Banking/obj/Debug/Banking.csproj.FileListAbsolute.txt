@@ -1,0 +1,9 @@
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\obj\Debug\Banking.Form1.resources
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\obj\Debug\Banking.csproj.GenerateResource.Cache
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\i.mctavish\OneDrive\Documents\__ics3c4c201617\Banking\Banking\obj\Debug\Banking.pdb
